@@ -1,5 +1,5 @@
 # OTF-MLFF-Tg
-Data for "On-the-Fly Machine-Learned Force Fields for High-Fidelity Polymer Glass Transition Simulations".
+"On-the-Fly Machine-Learned Force Fields for High-Fidelity Polymer Glass Transition Simulations".
 
 Each folder contains the initial structure used to build a machine-learning force field for its respective polymer.
 
