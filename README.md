@@ -1,7 +1,15 @@
 # OTF-MLFF-Tg
 ## "On-the-Fly Machine-Learned Force Fields for High-Fidelity Polymer Glass Transition Simulations".
 
-### Each folder contains the initial structure used to build a machine-learning force field for its respective polymer.
+### Directory "structures" contains the initial structure used to build a machine-learning force field for its respective polymer.
+
+OTF-MLFF-Tg/
+├── structures/
+│   └── polymer-1/
+│       ├── POSCAR
+│       ├── CONTCAR
+│       └── POSCAR-ss
+└── README.md
 
 POSCAR: Initial structure
 
