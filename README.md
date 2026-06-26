@@ -13,7 +13,7 @@ Each folder also contains the corresponding larger polymeric structure "POSCAR-s
 
 The polymer smiles corresponding to each folder are as follows: \
 polymer-1: [\*]CCC=C([\*])CCCCCCC \
-polymer-2: [\*]CC([\*])OCCCCCCCC \
+polymer-2: [*]CC([\*])OCCCCCCCC \
 polymer-3: [\*]CC([\*])CCCCC \
 polymer-4: [\*]CC([\*])CCC \
 polymer-5: [\*]CC[\*] \
