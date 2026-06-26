@@ -3,12 +3,12 @@
 
 ### Directory "structures" contains the initial structure used to build a machine-learning force field for its respective polymer.
 
-OTF-MLFF-Tg/
-├── structures/
-│   └── polymer-1/
-│       ├── POSCAR
-│       ├── CONTCAR
-│       └── POSCAR-ss
+OTF-MLFF-Tg/ \
+├── structures/ \
+│   └── polymer-1/ \
+│       ├── POSCAR \
+│       ├── CONTCAR \
+│       └── POSCAR-ss \
 └── README.md
 
 POSCAR: Initial structure
