@@ -2,15 +2,15 @@
 ## "On-the-Fly Machine-Learned Force Fields for High-Fidelity Polymer Glass Transition Simulations".
 
 ### Directory "structures" contains the initial structure used to build a machine-learning force field for its respective polymer.
-
+```
 OTF-MLFF-Tg/ \
-\├── structures/ \
-\│   └── polymer-1/ \
-\│       ├── POSCAR \
-\│       ├── CONTCAR \
-\│       └── POSCAR-ss \
-\└── README.md
-
+├── structures/ \
+│   └── polymer-1/ \
+│       ├── POSCAR \
+│       ├── CONTCAR \
+│       └── POSCAR-ss \
+└── README.md
+```
 POSCAR: Initial structure
 
 CONTCAR: Equilibrated structure after 200ps run (step size 0.4 fs).
