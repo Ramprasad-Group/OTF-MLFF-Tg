@@ -12,7 +12,7 @@ CONTCARs were further used to build larger polymeric structures containing multi
 Each folder also contains the corresponding larger polymeric structure "POSCAR-ss", which is used as the starting structure for Tg simulations. The protocol followed is mentioned in the manuscript and SI.
 
 The polymer smiles corresponding to each folder are as follows:
-polymer-1: [*]CCC=C([*])CCCCCCC
+polymer-1: [*]CCC=C([*])CCCCCCC \
 polymer-2: [*]CC([*])OCCCCCCCC
 polymer-3: [*]CC([*])CCCCC
 polymer-4: [*]CC([*])CCC
