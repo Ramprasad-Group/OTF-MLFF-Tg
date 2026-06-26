@@ -5,7 +5,7 @@
 ```
 OTF-MLFF-Tg/ 
 ├── structures/ 
-│   └── polymer-1/
+│   └── polymer-\*/
 │       ├── POSCAR 
 │       ├── CONTCAR 
 │       └── POSCAR-ss 
